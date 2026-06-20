@@ -1,0 +1,19 @@
+# Diabetic Donation
+
+> diabeticdonation.com is where you give to OpenDiabetic — cash, compute (a GPU/rig), or an edge device (Apple Watch, iPhone, NAS, mini PC). Donations are not burned like a typical charity dollar; they are PLANTED: donated compute earns income on the open market, and the net is recycled into free real-world help for people with diabetes (rides to the doctor, diabetic shoes, supplies, a private home vault). OpenDiabetic pays all shipping on compute and device donations. Every donation and every give is recorded on a public, browser-verifiable ledger at diabeticledger.com.
+
+## Ways to give
+- **Cash** — one-time or monthly, via secure Stripe checkout. Buys what's needed or a rig that earns for years.
+- **Compute** — donate a GPU or rig; host it at home or ship it (we pay shipping). It becomes a real worker funding free help.
+- **Edge appliances** — donate a device; it ships free to a member who needs it.
+
+## Why
+Founder Donovan Mackey is a Type 1 diabetic (lost toes, 14+ foot surgeries) who built the thing he and others needed. It costs the people nothing. "Give people what they need, not what you have."
+
+## Trust
+Tax/receipt note: donations support OpenDiabetic's mission; every dollar is public on diabeticledger.com. HQ: Jupiter, Florida, USA. Contact: build@opendiabetic.com · X: https://x.com/opendiabetics.
+
+## Links
+- https://diabeticdonation.com — give
+- https://opendiabetic.com — the hive (compute) · https://localdiabetic.com — the healers (members)
+- https://diabeticledger.com — the public giving ledger

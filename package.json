@@ -1,0 +1,2 @@
+{ "name":"diabetic-donation","private":true,"description":"DiabeticDonation — donation front door (static + Pages Functions)",
+  "scripts":{"build":"rm -rf dist && mkdir -p dist && cp -r index.html style.css app.js assets robots.txt sitemap.xml llms.txt dist/ && echo built"} }
