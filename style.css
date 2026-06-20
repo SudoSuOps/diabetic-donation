@@ -57,3 +57,5 @@ a{color:var(--honey6);text-decoration:none}.muted{color:var(--mut);font-size:.85
 .footer p{margin:9px 0;color:var(--mut)}.footer b{color:var(--honey)}.footer .links a,.footer .contact a{color:var(--fg)}
 @media(max-width:860px){.nav nav a:not(.btn){display:none}.flow{grid-template-columns:1fr 1fr}.lanes{grid-template-columns:1fr}}
 @media(max-width:520px){.flow{grid-template-columns:1fr}}
+
+.bee{font-size:1.4em;line-height:1;margin-right:.15em;vertical-align:-.05em}
