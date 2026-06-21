@@ -1,0 +1,5 @@
+# Stripe — local dev for Cloudflare Pages Functions (`wrangler pages dev`).
+# Copy this file to `.dev.vars` (gitignored) and paste your RESTRICTED key (rk_...).
+# Production: set STRIPE_SECRET_KEY in Cloudflare Pages → Settings → Environment variables.
+# Use a RESTRICTED key (rk_) scoped to: Checkout Sessions = WRITE. Never the full sk_ secret.
+STRIPE_SECRET_KEY=rk_live_REPLACE_ME
