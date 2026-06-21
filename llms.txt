@@ -13,7 +13,11 @@ Founder Donovan Mackey is a Type 1 diabetic (lost toes, 14+ foot surgeries) who 
 ## Trust
 Tax/receipt note: donations support OpenDiabetic's mission; every dollar is public on diabeticledger.com. HQ: Jupiter, Florida, USA. Contact: build@opendiabetic.com · X: https://x.com/opendiabetics.
 
+## Operated by
+Swarm and Bee LLC (DBA Swarm & Bee AI), Florida. UEI L9EXVH9L9VU6 · CAGE 20YM3 · D-U-N-S 138652395 · registered & active in SAM.gov. This is the donation surface of the OpenDiabetic ecosystem; it does not diagnose — OpenDiabetic organizes and reminds only.
+
 ## Links
-- https://diabeticdonation.com — give
+- https://diabeticdonation.com — give (this surface)
 - https://opendiabetic.com — the hive (compute) · https://localdiabetic.com — the healers (members)
+- https://diabeticdocs.com · https://diabeticnode.com · https://diabeticdatasets.com · https://diabeticmodels.com · https://diabetictruth.org
 - https://diabeticledger.com — the public giving ledger
